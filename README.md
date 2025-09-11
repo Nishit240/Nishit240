@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nishit Jain</h1>
+<h1 align="center">Hi 👋, I'm Nishit Jain  
+<img width="40" height="40" alt="img icons8" src="https://github.com/user-attachments/assets/656735b6-a161-48af-9706-80fdb161e7c9" />
+
+</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 ![git](https://github.com/user-attachments/assets/7d9cd7ab-465d-46b7-bd12-24ab500f359f)
@@ -29,8 +32,8 @@
   <h4 align="left">Data Visualization:</h4>
   <a href="https://www.geeksforgeeks.org/power-bi/power-bi-tutorial/" target="_blank" rel="noreferrer">
   <img width="40" height="40" alt="img icons8" src="https://github.com/user-attachments/assets/41fe68fa-178a-432b-a274-0a8e613a932f"/></a>
-  <a href="https://www.geeksforgeeks.org/power-bi/power-bi-tutorial/" target="_blank" rel="noreferrer"> 
-  <img width="96" height="96" alt="img icons8" src="https://github.com/user-attachments/assets/d996a52b-02a8-4c10-b1eb-bccd9ab965cf"/> </a>
+  <a href="https://www.w3schools.com/excel/" target="_blank" rel="noreferrer"> 
+  <img width="40" height="40" alt="img icons8" src="https://github.com/user-attachments/assets/d996a52b-02a8-4c10-b1eb-bccd9ab965cf"/> </a>
   <h4 align="left">Other:</h4>
   <br>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </p>
 

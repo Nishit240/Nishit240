@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishit Jain</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-![git](https://github.com/user-attachments/assets/9574dd6b-62c3-42df-bfbc-bdbea279fc24)
+![git](https://github.com/user-attachments/assets/7d9cd7ab-465d-46b7-bd12-24ab500f359f)
 
 - 🔭 I’m currently working on **FaceTrack – Face Recognition Attendance System**
 

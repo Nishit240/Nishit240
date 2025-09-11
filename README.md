@@ -2,7 +2,7 @@
 <img width="40" height="40" alt="img icons8" src="https://github.com/user-attachments/assets/656735b6-a161-48af-9706-80fdb161e7c9" />
 
 </h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer and Data Analyst</h3>
 
 ![git](https://github.com/user-attachments/assets/7d9cd7ab-465d-46b7-bd12-24ab500f359f)
 

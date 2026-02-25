@@ -2,7 +2,7 @@
 <img width="40" height="40" alt="img icons8" src="https://github.com/user-attachments/assets/656735b6-a161-48af-9706-80fdb161e7c9" />
 
 </h1>
-<h3 align="center">A Passionate Developer and Data Scientist and Data Analyst</h3>
+<h3 align="center">A Passionate Developer and Data Scientist and Data Engineer</h3>
 
 ![git](https://github.com/user-attachments/assets/7d9cd7ab-465d-46b7-bd12-24ab500f359f)
 
@@ -10,7 +10,7 @@
 
 - 📷 I have worked on **FaceTrack – Face Recognition Attendance System**
 
-- 👯 I’m looking to collaborate on **Data Science, Machine Learning, and Full Stack Web Development Projects**
+- 👯 I’m looking to collaborate on **Data Science, Machine Learning, Data Pipeline, Data Engineering and Full Stack Web Development Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nishit240?tab=repositories](https://github.com/Nishit240?tab=repositories)
 

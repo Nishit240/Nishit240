@@ -6,7 +6,9 @@
 
 ![git](https://github.com/user-attachments/assets/7d9cd7ab-465d-46b7-bd12-24ab500f359f)
 
-- 🔭 I’m currently working on **FaceTrack – Face Recognition Attendance System**
+- 🔭 I’m currently working on **Python-based academic chatbot**
+
+- 📷 I have worked on **FaceTrack – Face Recognition Attendance System**
 
 - 👯 I’m looking to collaborate on **Data Science, Machine Learning, and Full Stack Web Development Projects**
 

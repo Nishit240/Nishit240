@@ -104,7 +104,4 @@ I love turning ideas into real-world applications using code 💡
 
 
 - 📧 Email: **nishitjain02419@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/nishitjain024](https://www.linkedin.com/in/nishitjain024/)
-- 💻 GitHub: [github.com/Nishit240](https://github.com/Nishit240)
-
 ---

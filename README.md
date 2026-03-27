@@ -77,7 +77,8 @@ I love turning ideas into real-world applications using code 💡
 - Real-world Problem Solving Projects  
 
 ---
-<h3 align="left">Connect with me:</h3>
+
+## 📫 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nishitjain024/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishitjain024/" height="30" width="40" /></a>
 </p>
@@ -99,12 +100,8 @@ I love turning ideas into real-world applications using code 💡
   <h4 align="left">Other:</h4>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishit240&show_icons=true&locale=en&layout=compact" alt="nishit240" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishit240&" alt="nishit240" /></p>
 
-
-## 📫 Connect With Me
 
 - 📧 Email: **nishitjain02419@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/nishitjain024](https://www.linkedin.com/in/nishitjain024/)

@@ -1,22 +1,82 @@
-<h1 align="center">Hi 👋, I'm Nishit Jain  
-<img width="40" height="40" alt="img icons8" src="https://github.com/user-attachments/assets/656735b6-a161-48af-9706-80fdb161e7c9" />
-
+<h1 align="center">
+Hi 👋, I'm Nishit Jain  
+<img width="40" height="40" src="https://github.com/user-attachments/assets/656735b6-a161-48af-9706-80fdb161e7c9" />
 </h1>
-<h3 align="center">A Passionate Developer and Data Scientist and Data Engineer</h3>
+
+<h3 align="center">
+Python Developer | Data Enthusiast | Full Stack Developer
+</h3>
+
+<p align="center">
+Building scalable solutions with Python, Data, and Web Technologies 🚀
+</p>
 
 ![git](https://github.com/user-attachments/assets/7d9cd7ab-465d-46b7-bd12-24ab500f359f)
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Python-based academic chatbot**
+- 🎓 B.Tech CSE (2021–2025) | CGPA: **8.10**
+- 🏫 Acropolis Institute of Technology and Research, Indore  
+- 💼 Currently working as **Trainee @ Bytes and Cookies Technologies**
 
-- 📷 I have worked on **FaceTrack – Face Recognition Attendance System**
+---
+## ⚡ Fun Fact
+I love turning ideas into real-world applications using code 💡
 
-- 👯 I’m looking to collaborate on **Data Science, Machine Learning, Data Pipeline, Data Engineering and Full Stack Web Development Projects**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nishit240?tab=repositories](https://github.com/Nishit240?tab=repositories)
+## 🚀 Projects
 
-- 💬 Ask me about **Python, SQL, Data Visualization, Machine Learning**
+### 🔹 FaceTrack – Face Recognition Attendance System
+- Built using **OpenCV, Tkinter, MySQL**
+- Automated attendance with **real-time face recognition**
+- Reduced manual effort by **80%+**
+- Supports CSV import/export & photo mapping
 
-- 📫 How to reach me **nishitjain02419@gmail.com**
+---
+
+### 🔹 Academic Chatbot
+- Developed using **Python (TF-IDF + Cosine Similarity)**
+- Provides accurate responses based on academic queries
+- Lightweight and efficient NLP-based system
+
+---
+
+### 🔹 Blood Bank Management System
+- Full-stack web app for managing donors & requests
+- Built using **HTML, CSS, Java (JSP/Servlet), MySQL**
+
+---
+
+### 🔹 Sales Dashboard (Power BI)
+- Interactive dashboards with **data insights & trends**
+- Helped in better decision-making through visualization
+
+---
+
+### 🔹 Voice Assistant
+- Built using **SpeechRecognition & pyttsx3**
+- Performs tasks like search, open apps, automation
+
+---
+
+
+## 💼 Experience
+
+**Trainee – Bytes and Cookies Technologies**  
+📅 Sep 2025 – Present  
+- Working on real-world development projects  
+- Gaining hands-on experience in backend & data-driven systems  
+
+---
+
+## 🤝 Let's Collaborate
+
+- Data Science & Machine Learning Projects  
+- Python Development  
+- Full Stack Web Applications  
+- Real-world Problem Solving Projects  
+
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nishitjain024/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishitjain024/" height="30" width="40" /></a>
@@ -43,3 +103,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishit240&" alt="nishit240" /></p>
 
+
+## 📫 Connect With Me
+
+- 📧 Email: **nishitjain02419@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/nishitjain024](https://www.linkedin.com/in/nishitjain024/)
+- 💻 GitHub: [github.com/Nishit240](https://github.com/Nishit240)
+
+---
